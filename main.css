@@ -1,0 +1,19 @@
+div{
+	border:15px solid yellow; 
+	width:150px;
+	height: 130px;
+	padding: 2%;
+}
+
+.caja1{
+	text-align: center;
+}
+
+.caja2{
+	text-align: center left; 
+	margin: 40px auto 100px auto;
+}
+p{
+	font-size: 10px;
+	font-family: Arial;
+}
